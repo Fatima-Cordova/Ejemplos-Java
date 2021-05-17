@@ -43,8 +43,8 @@ public class ManejoDeArchivo {
                 else {
                     System.out.println("No se pudo crear el archivo");
                 }
-            }
-        }
+            } 
+        } 
         
         catch (Exception ex){
             
